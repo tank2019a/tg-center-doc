@@ -1,0 +1,69 @@
+https://www.saapiservice.com/language/zh/api-document-cn#seamless_wallet_integration_cn
+
+
+親愛的合作夥伴：
+
+ 
+
+歡迎配置SA Gaming 遊戲平台! 以下是訪問我們測試環境的所需資訊，有關的設置詳情可參考應用程式介面(API)文件：
+
+ 
+
+Secret Key 密鑰: CCA4031AD3C846F7ABD5F08058D82FD6
+
+MD5Key MD5鍵: GgaIMaiNNtg
+
+EncryptKey 加密鍵: g9G16nTs
+SA APP EncryptKey 加密鍵: M06!1OgI 
+
+ 
+
+我司根據不同功能設定了兩組API路徑。 
+
+Generic通用API路徑: http://sai-api.sa-apisvr.com/api/api.aspx
+Get Bet Detail取得會員下注詳情API路徑 : http://sai-api.sa-rpt.com/api/api.aspx
+
+Client 客户端加載器: https://www.sai.slgaming.net/app.aspx
+
+Back office 後台網址: https://bo.sai.slgaming.net 
+
+Login name/pwd 登入名稱/密碼: flycat2016 /aa1234
+
+Lobby code 大廳名稱: A1784
+
+
+
+如閣下的伺服器有白名單的設定，請先把以下的IP位址加進名單當中：
+
+
+
+52.69.66.33
+54.64.196.191 
+52.74.173.119
+18.197.215.236
+35.176.185.218
+
+另外，SA Gaming 各項推廣資源及素材，包括商標、宣傳圖片和橫額等，可於以下的連結中找到。
+
+
+
+URL: https://www.saapiservice.com/resources  
+
+密碼: sagaming  
+
+
+
+如閣下有任何疑問，歡迎於 Skype 中與我們聯絡，謝謝。
+
+
+歡迎配置 SA Gaming 遊戲平台！有關的代理商的帳戶詳情，可參考以下後台訪問我們測試環境的所需資訊：
+
+ 
+
+Back office 後台網址: https://bo.sai.slgaming.net
+
+Login name/pwd 登入名稱/密碼: flycat2016main / aa1234
+
+ 
+
+如閣下有任何疑問，歡迎於 Skype 中與我們聯絡，謝謝。

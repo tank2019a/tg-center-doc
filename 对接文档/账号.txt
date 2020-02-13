@@ -1,0 +1,53 @@
+PragmaticPlay API service domain: api.prerelease-env.biz
+
+Integration simple HTTP Service URL: https://api.prerelease-env.biz/IntegrationService/v3/http/CasinoGameAPI
+
+ 
+
+secureLogin: dfb_boss
+
+secret key for hash calculation: testKey
+
+PragmaticPlay game server domain (for game launching): defeng-tw.prerelease-env.biz
+
+Game Launch URL : https://defeng-tw.prerelease-env.biz/gs2c/playGame.do?key=<KEY_VALUE>&stylename=dfb_boss
+
+ 
+
+IP addresses to whitelist (if needed) :
+
+?             staging servers: 85.10.243.144/29
+
+?             our office IP: 195.69.223.146
+
+ 
+
+Also here is staging Backoffice account:
+
+?             URL: https://admin.prerelease-env.biz
+
+?             username: defengboss_masterstaging
+
+?             initial password: ASDFqwer1234
+
+ 
+
+#DEMO:
+
+ 
+
+Demo game server domain (for game launching in demo mode): demogamesfree-asia.pragmaticplay.net
+
+ 
+
+?            Demo Game Launch URL: https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol={game_symbol}&lang={language}&cur={currency_symbol}&lobbyUrl={URL}
+
+ 
+
+?            Demo link example: https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs40beowulf&lobbyURL=https://www.pragmaticplay.com
+
+ 
+
+Best regards,
+
+ 

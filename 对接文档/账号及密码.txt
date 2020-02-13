@@ -1,0 +1,59 @@
+
+代理后台信息
+
+接入平台 ：NNTI_BOSS
+
+后台访问地址 ：https://www.office-dtservice.com
+
+后台账号   ：bossadmin01
+
+后台密码 ：qwe123
+
+----------------------------------------------------------------------------------------
+
+
+
+商户信息（正式商户号）
+
+对接商户号（business）：NNTI_BOSS_HB
+商户后台账号：hbadmin01
+商户后台密码：qwe123
+对接API密钥：5BJyLL+d/ezwIgtCoqfjvQ==
+对接URL：http://api-dtservice.com/dreamTechApi.html  
+
+ 
+
+商户信息（测试商户号 ）  
+接入代理： NNTI_TESTS
+后台访问地址：https://www.office-dtservice.com
+
+对接商户号（business）：NNTI_TESTS_HB
+商户后台账号：hbtest
+商户后台密码：qwe123
+对接API密钥:eNUfDxr7/rah6O7USu8U4A==
+对接URL:http://api-dtservice.com/dreamTechApi.html 
+ ----------------------------------------------------------------------------------------
+
+DT老虎机资源云端
+
+您可以登陆云端下载DT老虎机最新游戏列表、ICON以及新游戏介绍和游戏宣传图片
+
+ 
+
+网址：http://share.dtshow.vip
+
+账号：dtview
+
+密码：dtfordownload888  
+
+ 
+
+附件为API文档，请您进行下载
+
+若有任何问题，请您与24小时在线Dream Tech 客服联系。
+
+ 
+
+Best Regards
+
+Seay Yi

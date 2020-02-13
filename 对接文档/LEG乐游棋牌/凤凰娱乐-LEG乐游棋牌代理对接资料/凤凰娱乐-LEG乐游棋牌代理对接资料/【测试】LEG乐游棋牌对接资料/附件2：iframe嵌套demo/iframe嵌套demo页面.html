@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>显示标题</title>
+<meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="full-screen" content="true" />
+<meta name="screen-orientation" content="landscape" />
+<meta name="x5-fullscreen" content="true" />
+<meta name="360-fullscreen" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<script>
+	//防止iframe无限嵌套
+   if (top.location != self.location)
+      top.location=self.location;
+</script>
+<script language="javascript">
+    //防止页面后退
+    history.pushState(null, null, document.URL);
+    window.addEventListener('popstate', function () {
+        history.pushState(null, null, document.URL);
+    });
+</script>
+
+
+<style>
+body{margin:0; padding:0;}
+</style>
+</head>
+<body>
+
+<iframe id="myiframe" scrolling="no" frameborder="0" style="width:100%;" allowfullscreen="true" allow="accelerometer *; gyroscope *; magnetometer *; geolocation *; fullscreen *; autoplay *"></iframe>
+<script>
+window.onload=function(){
+	/**
+	*游戏的URL:gameURL（接口返回）
+	*当前的链接:href（location.href）
+	*完整嵌套的URL:url=gameURL+"&returnUrl="+href
+	********在游戏异常断线时，游戏内会出现重连弹框，点击弹框上的重试执行=top.location.href=returnUrl，刷新页面
+	**/	
+	var href = location.href;
+	var gameURL = "";
+	var url = gameURL+"&returnUrl="+href;
+	var ifm= document.getElementById("myiframe"); 
+	ifm.src = url;
+	changeFrameHeight();
+}
+function changeFrameHeight(){
+    var ifm= document.getElementById("myiframe"); 
+    ifm.height=document.documentElement.clientHeight;
+}
+window.onresize=function(){  
+     changeFrameHeight();  
+}  
+</script>
+</body>
+</html>

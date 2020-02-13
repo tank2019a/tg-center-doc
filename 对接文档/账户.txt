@@ -1,0 +1,4 @@
+贵司测试环境使用SN码：sn00
+回调地址：http://bg.boss199.com/api/
+UAT-API地址：http://ae.bg1207.com/open-cloud/api/
+UAT-API密钥：8153503006031672EF300005E5EF6AEF

@@ -1,0 +1,24 @@
+Hello, please refer the “CQ9 Seamless Wallet” guideline, and follow the guideline flow.
+您好，附檔為CQ9單一錢包的 guideline，並參考對接流程。
+
+下面是測試環境對接的相關資訊
+Test Environment Info：
+
+＊About API＊
+API URL : http://api.cqgame.games
+密鑰 API Token :
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiI1ZDllZmVjMGY5NjQ1NTAwMDE0OWJmMzUiLCJhY2NvdW50Ijoic3diX3N3Iiwib3duZXIiOiI1ZDllZmVjMGY5NjQ1NTAwMDE0OWJmMzUiLCJwYXJlbnQiOiJzZWxmIiwiY3VycmVuY3kiOiJDTlkiLCJqdGkiOiI5MTE0NjMzOTkiLCJpYXQiOjE1NzA3MDA5OTIsImlzcyI6IkN5cHJlc3MiLCJzdWIiOiJTU1Rva2VuIn0.3jC1xNpnep-CUW3Jq3q7khUHg6Ai04bgs13bc1nbIwE
+
+＊About Back-Office 報表後台＊
+報表後台 BO URL : http://bo.cqgame.games
+帳號 Account：swb_sw
+密碼 Password：qwer1234
+
+Note: 
+Please provide a test account to check API interface and we will make sure it works properly.
+In addition, "Wurl" and Wtoken can be edited from CQ9 back office. 
+註：請提供一組測試帳號供我方測試API接口
+另外錢包接口網址(Wurl)及Wtoken可自行在CQ9後台編輯
+
+If there has any question, please list it and let us know, thanks.
+如果有任何問題，在請條列給我們，我們將會盡快回覆。
